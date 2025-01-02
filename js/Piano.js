@@ -128,7 +128,7 @@ class Piano {
             'A#': 233.08,
             'B': 246.94
         };
-        const frequency = baseFrequencies[note] * Math.pow(2, octave - 3);
+        const frequency = baseFrequencies[note] * Math.pow(2, octave - 1); // Adjusted octave base
         const oscillator = this.audioContext.createOscillator();
         const gainNode = this.audioContext.createGain();
 

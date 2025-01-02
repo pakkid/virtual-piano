@@ -2,6 +2,14 @@
 
 This is a web-based virtual piano application that allows users to play musical notes using both mouse clicks and keyboard inputs. The application features a responsive design, making it accessible on various devices.
 
+## Screenshot
+
+![Virtual Piano Screenshot](screenshot.png)
+
+## Live Demo
+
+You can try out the virtual piano application hosted on GitHub Pages: [Live Demo](https://pakkid.github.io/virtual-piano)
+
 ## Project Structure
 
 ```
@@ -44,6 +52,6 @@ To set up the virtual piano application, follow these steps:
 - Click on the piano keys to play notes.
 - Use the keyboard keys (C, D, E, F, G, A, B) to play corresponding notes.
 
-## Contributing
+## License
 
-Feel free to submit issues or pull requests if you have suggestions or improvements for the project.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
